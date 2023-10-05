@@ -16,4 +16,4 @@ public class Main {
     }
 }
 
-jakaśgłupota 1 nie wiem co napisać
+jakaśgłupota 1nie wiem co napisać
