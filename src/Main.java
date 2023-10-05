@@ -13,7 +13,10 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i +1 );
         }
-    }
+    }dawdawdadwrjgbksjbgksjbslegbsofebskejgbsgkjsbegkjsbegksbgkwgebwkegbslkGb
+egkjsbegksbgkwgebwkegbslkGbse
+            gsgsegegESgseg
+    seg
 }
 coś dodałem
 jakaśgłupota 1nie wiem co napisać
