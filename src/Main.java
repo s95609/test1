@@ -15,3 +15,5 @@ public class Main {
         }
     }
 }
+
+jakaśgłupota 1 nie wiem co napisać
